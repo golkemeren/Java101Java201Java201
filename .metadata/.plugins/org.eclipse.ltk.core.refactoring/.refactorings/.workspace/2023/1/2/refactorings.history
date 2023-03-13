@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;char dizisi okuma,&apos; to &apos;char dizisi okuma&apos;" description="Rename resource &apos;char dizisi okuma,&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/char dizisi okuma," name="char dizisi okuma" stamp="1672834790549" updateReferences="true"/>
+</session>

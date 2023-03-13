@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HesapMakinasi.java&apos; to &apos;Driver.java&apos;&#x0D;&#x0A;- Original project: &apos;Metot Tanımlama&apos;&#x0D;&#x0A;- Destination element: &apos;Driver.java&apos;&#x0D;&#x0A;- Original element: &apos;HesapMakinasi.java&apos;" description="Copy compilation unit" destination="=Statik_Metodlar/src&lt;{Driver.java" element1="/src&lt;{HesapMakinasi.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1667768544684" units="1" version="1.0"/>
+</session>

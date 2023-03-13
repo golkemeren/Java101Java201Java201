@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Calisan&apos; to &apos;ICalisan&apos;&#x0D;&#x0A;- Original project: &apos;Interface1233&apos;&#x0D;&#x0A;- Original element: &apos;Calisan&apos;&#x0D;&#x0A;- Renamed element: &apos;ICalisan&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Calisan&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Calisan.java[Calisan" matchStrategy="1" name="ICalisan" qualified="false" references="true" similarDeclarations="false" stamp="1674737947477" textual="false" version="1.0"/>
+</session>

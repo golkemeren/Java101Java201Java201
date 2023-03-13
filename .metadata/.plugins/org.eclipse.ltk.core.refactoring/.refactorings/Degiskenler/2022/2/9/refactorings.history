@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Ders.java&apos; to &apos;sıfırgirenekadarolansayılarıtoplama.java&apos;&#x0D;&#x0A;- Original project: &apos;Degiskenler&apos;&#x0D;&#x0A;- Original element: &apos;Ders.java&apos;&#x0D;&#x0A;- Renamed element: &apos;sıfırgirenekadarolansayılarıtoplama.java&apos;" description="Rename compilation unit &apos;Ders.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Ders.java" name="sıfırgirenekadarolansayılarıtoplama.java" references="false" stamp="1645783987478" version="1.0"/>
+</session>

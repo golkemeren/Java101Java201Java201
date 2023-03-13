@@ -1,0 +1,12 @@
+dialog.ChoreographyTask.x=32
+dialog.ChoreographyTask.y=32
+dialog.Participant.x=96
+dialog.Participant.y=96
+do.core.validation=true
+eclipse.preferences.version=1
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Analytic=false
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Choreography=false
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Conversation=false
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Descriptive=false
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Executable=false
+tool.profile/org.eclipse.bpmn2.modeler.runtime.none/Full=true
